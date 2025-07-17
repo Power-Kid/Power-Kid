@@ -1,5 +1,9 @@
-## Hi there 👋
-🌱 I’m currently learning
+## Hi 👋, I'm Katzura
+🌱 I’m currently learning Django, git
+📫 How to reach me: han486990@gmail.com
+😄 Favourite anime: Gintama
+Let's improve together
+
 
 <!--
 **Power-Kid/Power-Kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
