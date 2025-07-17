@@ -1,7 +1,11 @@
 ## Hi 👋, I'm Katzura
+
 🌱 I’m currently learning Django, git
+
 📫 How to reach me: han486990@gmail.com
+
 😄 Favourite anime: Gintama
+
 Let's improve together
 
 
