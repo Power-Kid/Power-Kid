@@ -1,12 +1,35 @@
-## Hi 👋, I'm Katzura
+# Hi 👋, I'm Katzura
 
-🌱 I’m currently learning Django, git
+### 🧑‍💻 About Me
 
-📫 How to reach me: han486990@gmail.com
+-🌱 I’m currently learning Django, git
 
-😄 Favourite anime: Gintama
+-📫 How to reach me: han486990@gmail.com
+
+-😄 Favourite anime: Gintama
 
 Let's improve together
+
+### 🛠️ Tech Stack
+
+
+🌱 Growing Skills:
+
+├── Python
+
+├── Django
+
+├── Git/GitHub
+
+├── Docker
+
+└── MySQL
+
+🔜 Future Interests:
+
+├── JavaScript
+
+└── LLM
 
 
 <!--
