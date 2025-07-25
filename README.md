@@ -12,27 +12,6 @@ If you have faith , your dream will surely come true.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Power-Kid&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🛠️ Tech Stack
-
-
-🌱 Growing Skills:
-
-├── Python
-
-├── Django
-
-├── Git/GitHub
-
-├── Docker
-
-└── MySQL
-
-🔜 Future Interests:
-
-├── JavaScript
-
-└── LLM
-
 
 <!--
 **Power-Kid/Power-Kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
