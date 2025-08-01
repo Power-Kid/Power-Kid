@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me
 
--🌱 I’m currently learning Django, git
+-🌱 I’m currently learning Django, JavaScript
 
 -📫 How to reach me: han486990@gmail.com
 
